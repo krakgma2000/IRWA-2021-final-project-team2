@@ -20,3 +20,5 @@ You will find a Jupyter Notebook with different cells that must be executed in o
  - The first cell will install all the necesary libraries that may not be installed in the user environment.
  - The following cells have the necessary imports, functions, and code in order to process the text.
  - Finally, you can visualize all the process step by step and tweet by tweet.
+
+ATENTION! YOU MUST CHANGE THE PATH OF THE INPUT FILE TO THE ONE OF YOUR COMPUTER!
