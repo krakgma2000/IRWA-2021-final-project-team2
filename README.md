@@ -9,6 +9,7 @@ At this point, we have only the first part of the project ready (Text Processing
 The full roadmap of the project is the following:
 
 
+
 1 Text Processing 29/10/2021
 
 2 Indexing and Evaluation 11/11/2021
