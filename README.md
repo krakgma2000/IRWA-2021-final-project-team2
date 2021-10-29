@@ -8,6 +8,7 @@ At this point, we have only the first part of the project ready (Text Processing
 
 The full roadmap of the project is the following:
 
+
 | Part | Topic | Deadline |
 | --- | --- | --- |
 | 1 | Text Processing | 29/10/2021 |
