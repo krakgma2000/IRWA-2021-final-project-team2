@@ -4,7 +4,7 @@ In this repository you will find the code for the UPF IRWA final project from gr
 
 This final project consist on a search engine which implements different indexing and ranking algorithms.
 
-At this point, we have only the first part of the project ready (Text Processing).
+At this point, we have only the first and second part of the project ready (Text Processing and Indexing respectively).
 
 The full roadmap of the project is the following:
  
