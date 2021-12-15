@@ -25,6 +25,7 @@ ATENTION! YOU MUST CHANGE THE PATH OF THE INPUT FILE TO THE ONE OF YOUR COMPUTER
 
 Regarding the final app, you will find a repository that you just need to donwload to your computer. After this, go inside the repository and just run the web_app.py python code in an appropiate virtual environment. The environment must have the following dependencies installed:
 
+* Flask
 * matplotlib
 * collections
 * numpy
